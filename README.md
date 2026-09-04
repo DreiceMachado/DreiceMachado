@@ -43,8 +43,6 @@ Tenho 23 anos, sou entusiasta da tecnologia e movida pela curiosidade de entende
 
 ### 🐍 Contribuições:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DreiceMachado/DreiceMachado/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DreiceMachado/DreiceMachado/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DreiceMachado/DreiceMachado/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://snk-badge.vercel.app/api/snake?github_user=DreiceMachado&theme=slate&color_snake=orange" alt="Snake animation" />
+</p>
