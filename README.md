@@ -1,6 +1,6 @@
 <!-- BANNER GARANTIDO (SVG NATIVO DO GITHUB) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=DREICE+MACHADO;Entusiasta+da+Tecnologia;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=DREICE+MACHADO;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 # 📖 Sobre Mim:
