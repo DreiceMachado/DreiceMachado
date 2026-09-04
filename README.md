@@ -1,6 +1,5 @@
-<!-- BANNER GIF COM NOME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=frame&color=FF8C00&height=200&section=header&text=DREICE%20MACHADO&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Entusiasta%20da%20Tecnologia&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=FF8C00&height=150&section=header&text=DREICE%20MACHADO&fontSize=40&fontColor=ffffff&desc=Entusiasta%20da%20Tecnologia&descSize=18" width="100%" />
 </p>
 
 # 📖 Sobre Mim:
@@ -35,14 +34,10 @@ Tenho 23 anos, sou entusiasta da tecnologia e movida pela curiosidade de entende
   <img height="160em" src="https://streak-stats.demolab.com/?user=DreiceMachado&theme=slateorange&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DreiceMachado&theme=slateorange&hide_border=false&layout=compact" />
-</p>
-
 ---
 
 ### 🐍 Contribuições:
 
 <p align="center">
-  <img src="https://snk-badge.vercel.app/api/snake?github_user=DreiceMachado&theme=slate&color_snake=orange" alt="Snake animation" />
+  <img src="https://snk-badge.vercel.app/api/snake?github_user=DreiceMachado&color_snake=orange&color_dots=bfd6f6,8dbdff,4c94ff,1166ff,003bba" alt="Snake animation" />
 </p>
