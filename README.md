@@ -1,5 +1,6 @@
+<!-- BANNER GARANTIDO (SVG NATIVO DO GITHUB) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=FF8C00&height=150&section=header&text=DREICE%20MACHADO&fontSize=40&fontColor=ffffff&desc=Entusiasta%20da%20Tecnologia&descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=DREICE+MACHADO;Entusiasta+da+Tecnologia;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 # 📖 Sobre Mim:
@@ -39,5 +40,5 @@ Tenho 23 anos, sou entusiasta da tecnologia e movida pela curiosidade de entende
 ### 🐍 Contribuições:
 
 <p align="center">
-  <img src="https://snk-badge.vercel.app/api/snake?github_user=DreiceMachado&color_snake=orange&color_dots=bfd6f6,8dbdff,4c94ff,1166ff,003bba" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
