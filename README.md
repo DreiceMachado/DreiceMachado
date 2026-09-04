@@ -1,10 +1,10 @@
 <!-- BANNER GARANTIDO (SVG NATIVO DO GITHUB) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=DREICE+MACHADO;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=DREICE+MACHADO;Welcome+to+my+profile" alt="Typing SVG" />
 </p>
 
 # 📖 Sobre Mim:
-Tenho 23 anos, sou entusiasta da tecnologia e movida pela curiosidade de entender como as coisas funcionam por trás do código. Dedico meu tempo a estudar, aprimorar minhas habilidades em programação e evoluir diariamente na área de desenvolvimento.
+Tenho 23 anos,sou movida pela curiosidade de entender como as coisas funcionam por trás do código. Dedico meu tempo a estudar, aprimorar minhas habilidades em programação e evoluir diariamente na área de desenvolvimento.
 
 ## 🌐 Redes Sociais:
 <a href="https://instagram.com/dm_machadoo" target="_blank">
