@@ -4,7 +4,7 @@
 </p>
 
 # 📖 Sobre Mim:
-Tenho 23 anos,sou movida pela curiosidade de entender como as coisas funcionam por trás do código. Dedico meu tempo a estudar, aprimorar minhas habilidades em programação e evoluir diariamente na área de desenvolvimento.
+Tenho 23 anos, sou movida pela curiosidade de entender como as coisas funcionam por trás do código. Dedico meu tempo a estudar, aprimorar minhas habilidades em programação e evoluir diariamente na área de desenvolvimento.
 
 ## 🌐 Redes Sociais:
 <a href="https://instagram.com/dm_machadoo" target="_blank">
